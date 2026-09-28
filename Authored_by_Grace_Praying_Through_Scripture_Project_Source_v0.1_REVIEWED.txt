@@ -1,0 +1,589 @@
+﻿AUTHORED BY GRACE
+Praying Through Scripture
+Project Source & Generation Standard
+A TovTree Publication
+Working Source — v0.1
+Purpose: govern the generation of Scripture-rooted devotional commentary and prayer for specific troubles, needs, desires, hopes, and intercessory burdens.
+Prepared with GPT-5.6 Sol
+________________
+
+
+1. Product Identity
+Series identity: Authored by Grace — Praying Through Scripture — A TovTree Publication.
+Core form: A focused devotional series in which each book addresses one recognizable spiritual or human condition through a progressive sequence of Scripture, elder/discipler commentary, and prayer.
+Primary purpose: Help a believer draw near to God through His Word and prayer while moving faithfully through a particular trouble, need, desire, living hope, season of repentance, or burden for another person.
+Pilot format: Seven days. Each day must advance the devotional journey rather than repeat the same reassurance with a different verse.
+Core principle: The anchor text controls the meaning. The whole counsel of Scripture enriches the prayer.
+2. Theological Posture
+Scripture is the authority. Commentary explains; prayer responds. Neither commentary nor prayer may overrule, improve upon, or invent beyond the text.
+Promises are personal without becoming private inventions. When God has truly made a promise to His people, the believer may receive it personally in the way Scripture authorizes. The generator must still identify the original audience, covenantal setting, literary context, and how the truth applies to believers in Christ.
+A promise is not a vending-machine formula. Do not guarantee a specific timetable, financial result, physical healing, relationship restoration, or circumstantial outcome unless Scripture itself warrants that conclusion.
+Obedience matters. When the passage contains or implies a command, invitation, warning, condition, posture, act of faith, repentance, endurance, seeking, abiding, or prayer, identify it clearly. Promise and faithful response belong together.
+Christ remains central. Do not turn biblical promises into self-help affirmations. The devotional should repeatedly direct the believer toward God, His character, Christ, the Holy Spirit, repentance, faith, obedience, love, and worship as Scripture warrants.
+Prayer is relational. The goal is not polished religious language. The goal is a reverent believer speaking naturally to the Father from inside the truth of Scripture.
+Scripture-saturated prayer is not an incantation. Its power is not in mechanically repeating sacred wording. Its strength is that the believer is praying from God’s revealed truth, asking in faith, drawing near to Him, and submitting the request to His will and character.
+3. Human Prayer Voice Standard
+Prayer must sound like something a real believer can pray aloud without being pulled out of worship by analytical, technical, corporate, or machine-like language.
+Reject these tendencies in prayer:
+* Technical abstractions: manufacture, mechanism, architecture, framework, optimize, operationalize, govern, process, system, outcome, leverage, calibration, protocol, unless the word is unavoidable in the actual human situation.
+* Explanatory prose disguised as prayer.
+* Long sentences written to impress rather than to pray.
+* Repeated theological labels where a plain biblical phrase would carry more weight.
+* Artificial symmetry that makes every ACTS section sound like a template.
+* Language a believer would stop praying to mentally decode.
+Prefer:
+* Direct address: Father, Lord, Most High God, Holy God, according to the passage and established devotional voice.
+* Shorter, speakable sentences with natural rhythm.
+* Concrete human language: I am afraid. I am tired. I do not know what to do. Forgive me. Help me. Keep me. Teach me. Thank You.
+* Biblical vocabulary when Scripture already says the thing better than we can.
+* Reverence without stiffness; intimacy without casual irreverence.
+* A prayer that grows naturally out of the believer’s actual state rather than sounding detached from it.
+4. Scripture-First Substitution Rule
+Mandatory generation rule: Before writing an original sentence in the prayer, ask whether Scripture already gives language that expresses the same truth more faithfully, powerfully, and naturally. If it does, prefer Scripture or an unmistakably faithful prayerful rendering of Scripture.
+Examples of the rule in practice:
+Weaker generated phrasing
+	Prefer a Scripture-rooted rendering
+	Help me stop thinking about everything that can go wrong.
+	Set my mind on things above; bring my thoughts into obedience to Christ; keep my mind stayed on You, as the supporting texts warrant.
+	Give me enough emotional resilience for this challenge.
+	Strengthen me; help me; uphold me with Your righteous right hand.
+	Do not let the future overwhelm me.
+	Teach me not to worry about tomorrow; give me this day what I need for this day.
+	Make me feel secure.
+	Be my refuge, my strength, my very present help; let me know that You are with me.
+	Constraint: Do not stitch verses together merely because their wording sounds powerful. Every supporting text must genuinely support the prayer’s meaning in context. Scripture saturation must increase integrity, not create a collage of proof-texts.
+5. Scripture Integrity Workflow
+1. Identify the believer’s specific condition: trouble, need, desire, hope, temptation, repentance, illness, provision, grief, intercession, etc.
+2. Select the anchor passage because it actually addresses the condition—not merely because one sentence sounds comforting.
+3. Read the immediate context and identify speaker, audience, situation, covenantal setting, and literary movement.
+4. Identify what the passage reveals about God.
+5. Identify what the passage commands, invites, warns, conditions, promises, assures, or calls the believer to do.
+6. Identify the legitimate promise or assurance. State only what the text warrants.
+7. Select supporting Scriptures that genuinely reinforce the same theological movement.
+8. Write the elder/discipler commentary from Scripture toward the person, not from the person’s desired outcome backward toward Scripture.
+9. Write the prayer, substituting Scripture for original prose wherever Scripture can carry the petition, confession, thanksgiving, or praise more faithfully.
+10. Run a final integrity check: no invented promise, no forced sin, no guaranteed outcome without biblical warrant, no technical language, no verse used against its context.
+6. Daily Devotional Entry Architecture
+Element
+	Generation requirement
+	DAY TITLE
+	Human and specific. Example: “When Fear Starts Writing Tomorrow.”
+	ANCHOR SCRIPTURE
+	Primary text for the day. Quote from the locked translation and identify reference.
+	THE SITUATION
+	Two to four sentences naming the believer’s lived condition without melodrama.
+	THE TEXT IN CONTEXT
+	Brief, factual context. Enough to keep interpretation honest; never an academic lecture.
+	THE CALL / COMMAND / INVITATION / WARNING / POSTURE
+	Use whichever category the text actually contains. Never force “The Command” when the passage does not contain one.
+	THE PROMISE / ASSURANCE / TRUTH
+	State exactly what God says or what the passage warrants the believer to rest upon.
+	AN ELDER'S WORD
+	Warm, direct discipleship commentary. Scripture speaking into a real life through the voice of someone who has walked with God long enough to be gentle and exact.
+	PRAY THROUGH THE SCRIPTURE
+	A prayer shaped by ACTS but not mechanically written. Scripture-rooted, natural, worshipful, honest, specific, and prayable aloud.
+	CARRY THIS WITH YOU
+	One concise truth, one response, and one short prayer sentence for the day.
+	OPTIONAL INTERCESSION
+	When appropriate: a short adaptation for praying the same Scriptures over another person.
+	7. ACTS Prayer Standard
+ACTS is a prayer order, not a license to force material into the text. The four movements may be visible as headings in some editions or may operate underneath a seamless prayer, depending on editorial choice.
+Adoration: Begin with God: who He is, what the anchor text reveals about Him, and biblically supported praise. Do not begin with the problem.
+Confession: Confess what Scripture actually exposes. Never invent a sin merely because the template expects confession. Confession may include fear, unbelief, self-reliance, bitterness, disobedience, or other sin only when warranted.
+Thanksgiving: Thank God for what He has revealed, given, done, promised, sustained, forgiven, provided, or accomplished in Christ. Thanksgiving should not become a disguised demand.
+Supplication: Ask boldly and specifically. Use Scripture’s own petitions wherever possible. Ask for provision, healing, wisdom, deliverance, restoration, strength, repentance, endurance, or intervention according to the biblical warrant. Leave God sovereign over method and timing unless Scripture itself gives a specific guarantee.
+Important devotional freedom: A prayer may ask the Father freely for mercy and good gifts without asking for additional trial or affliction as though suffering must be purchased before blessing can be received. “Every good gift and every perfect gift is from above” should shape the heart of thanksgiving where James 1:17 appropriately applies.
+8. The Elder / Discipler Commentary Voice
+* Speak to the person, not at the person.
+* Sound seasoned, not superior.
+* Tell the truth without shaming.
+* Name the actual danger: fear, unbelief, hurry, bitterness, self-reliance, despair, temptation, avoidance, etc.
+* Explain enough context to protect the verse from misuse, then return quickly to the believer’s life.
+* Use memorable sentences sparingly. Do not make every paragraph an aphorism.
+* Do not use clinical or academic vocabulary unless the topic truly requires it.
+* Do not promise that obedience purchases a miracle. Obedience expresses faith and love; God remains the giver and Lord of the outcome.
+* Where Scripture permits bold expectation, let the commentary be bold. Where Scripture leaves mystery, let the commentary remain humble.
+9. Book-Level Devotional Arc
+Each book is a journey, not a stack of topical entries. Day One should meet the believer where they are. The final day should lead toward a biblically faithful changed posture: repentance, renewed trust, obedient action, sustained hope, restored fellowship, perseverance, or another outcome warranted by Scripture.
+Default seven-day movement:
+Day 1 — Name the State: Bring the condition into the light before God. Remove denial and false framing.
+Day 2 — Hear What God Says: Let Scripture contradict the lie, fear, temptation, or false conclusion governing the believer.
+Day 3 — Repent / Release / Return: Where needed, move from recognition to repentance, confession, surrender, forgiveness, or relinquishment.
+Day 4 — Receive: Receive the promise, assurance, mercy, identity, provision, help, or truth God actually gives.
+Day 5 — Walk: Translate prayer into obedience, wisdom, patience, reconciliation, stewardship, or faithful action.
+Day 6 — Endure / Abide: Prepare the believer for recurring pressure. Teach remaining, abiding, continuing, and resisting relapse into the old state.
+Day 7 — Witness / Continue: Conclude with thanksgiving, testimony, sustainable practice, and a forward posture rather than pretending the spiritual life ends with the book.
+10. Pilot Book Concept
+Working title: Authored by Grace — Praying Through Scripture When You Are Backslidden — A TovTree Publication
+Pilot objective: seven devotional days that help a believer recognize spiritual distance, hear God’s call to return, confess and repent, receive mercy, renew fellowship, re-enter obedience, and establish a sustainable posture of abiding. The book must never imply that seven days mechanically purchases restoration; the seven-day format is a guided period of Scripture-saturated return to God.
+Day
+	Working anchor and movement
+	Day 1 — Wake Up and Remember
+	Revelation 2:4–5; Luke 15:17–20 (used with contextual care). Recognize distance; remember; turn.
+	Day 2 — Return to Me
+	Joel 2:12–13 or Zechariah 1:3. God’s call to return; heart, not performance.
+	Day 3 — Confess in the Light
+	1 John 1:5–9. Honest confession and God’s faithfulness to forgive and cleanse.
+	Day 4 — A Clean Heart and a Steadfast Spirit
+	Psalm 51, selected movement in context. Repentance that seeks inward renewal, not image repair.
+	Day 5 — Draw Near
+	James 4:7–10. Submission, resistance, drawing near, humility.
+	Day 6 — Abide Again
+	John 15:1–11. Remain in Christ; fruit grows from abiding, not frantic self-repair.
+	Day 7 — Walk Forward
+	Galatians 5:16–25 and/or Philippians 2:12–13. Walk by the Spirit; God at work in the believer; sustainable obedience.
+	11. Intercessory Mode
+A believer may use these books to pray for another person. Generation must support both first-person and intercessory use without pretending to control another person’s will or promising an outcome Scripture does not guarantee.
+* First-person: “Father, draw me near. Search me. Forgive me. Strengthen me.”
+* Intercessory: “Father, draw him near. Let Your Word bring light. Grant repentance. Strengthen her to walk in truth.”
+* Do not write manipulative prayers that attempt to dictate another person’s choices to God.
+* When praying for healing or deliverance, pray boldly while preserving God’s sovereignty and the actual biblical warrant of the passage.
+12. Outcome and Testimony Language
+The series may be written toward real deliverance, restoration, provision, healing, repentance, peace, or renewed faith. However, the generator must distinguish between three categories:
+Promised spiritual realities: What Scripture clearly guarantees to believers in Christ: forgiveness upon confession/repentance as biblically defined, God’s presence, grace, wisdom when asked in faith according to James 1, sanctifying work, resurrection hope, etc.
+Petitions God invites us to make: Provision, healing, rescue, changed circumstances, reconciliation, open doors, and other good gifts we may ask for boldly without pretending every request has a guaranteed timetable or form.
+Specific desired outcomes: A particular job, amount of money, medical result, restored relationship, or immediate circumstantial reversal. These may be prayed for specifically, but must not be called guaranteed promises unless Scripture warrants that exact claim.
+Editorial objective: The reader should be able to finish the devotional truthfully saying, “I have prayed through Scripture concerning this burden. I have drawn near to God, heard what He says, responded in faith, and know how to continue walking with Him,” even when a circumstantial answer remains in progress.
+13. Required Generation Inputs
+Input
+	Requirement
+	BOOK / TOPIC
+	Specific human condition, e.g., backslidden, worried about provision, grieving, praying for a sick loved one.
+	DURATION
+	Default seven days for pilot; may expand later.
+	PRIMARY TRANSLATION
+	Lock one translation per edition. Do not silently mix translations in quoted text.
+	PRAYER MODE
+	First-person, intercessory, or both.
+	TARGET SPIRITUAL MOVEMENT
+	What biblically faithful change should the devotional cultivate?
+	ANCHOR TEXTS
+	One primary passage per day after contextual verification.
+	SUPPORTING TEXTS
+	Canonical support used to enrich commentary and prayer.
+	PASTORAL BOUNDARIES
+	Any topic-specific safeguards: grief, illness, addiction, suicide, marriage, finances, etc.
+	14. Final Generation Gate
+☐ The anchor passage is interpreted in context.
+☐ The devotional identifies what God actually says rather than what the reader merely wants Him to say.
+☐ The believer’s response is faithful to the text.
+☐ The elder commentary sounds human, seasoned, compassionate, and direct.
+☐ The prayer can be spoken aloud naturally.
+☐ Technical / machine-like language has been removed.
+☐ Scripture replaces original phrasing wherever Scripture genuinely says it better.
+☐ Supporting Scriptures are contextually faithful, not decorative proof-texts.
+☐ ACTS has not forced a confession, promise, or petition the passage does not support.
+☐ No guaranteed modern outcome has been invented.
+☐ The prayer magnifies God more than the problem.
+☐ The day advances the book-level devotional journey.
+☐ The final day equips continued walking with God rather than implying a seven-day formula controls Him.
+15. Seed Example — Jeremiah 29:11
+For a devotional on need and worry, Jeremiah 29:11 should not be reduced to “God will fix my finances quickly.” Its setting is exile. The surrounding movement calls God’s people to live faithfully, pray, reject false hope, seek God, and trust His appointed purpose. The devotional use may therefore emphasize that present hardship does not mean God has forgotten His people or lost His purpose.
+Prayer-language correction captured from development: When asking for provision, it is legitimate to thank the Father for good gifts freely given and to use James 1:17 where contextually appropriate, rather than writing as though blessing must always be purchased through additional trial or affliction.
+16. Source Authority Statement
+This is the working generation source for the Praying Through Scripture line. Future prompts, models, editors, and production workflows should treat it as the baseline unless a later numbered version supersedes it. Goal: theological integrity, natural human prayer, Scripture saturation, and progressive discipleship—not uniform prose. Model signature: GPT-5.6 Sol
+________________
+
+
+17. Editorial Review Report — Working Source v0.1
+Status: KEEP as generation constitution. Do not treat this file as a finished product spec, brand bible, or publishable manuscript.
+Review date: 27 September 2026
+Reviewed artifact: Authored_by_Grace_Praying_Through_Scripture_Project_Source_v0.1.docx
+Review posture: product development, theological integrity, market fit, legal and publishing readiness, and series maturity. This is not a takedown. The source is already stronger than most AI-devotional briefs. It is incomplete as a product system.
+17.1 Executive verdict
+What you have written is a generation constitution, not a book. That is the right first artifact. Most devotionals fail because they start with pretty pages and no doctrine of promise. This source starts with the hard thing: what Scripture actually authorizes a believer to say to God.
+Keep the theological spine. Keep the human-prayer voice standard. Keep the three-category outcome taxonomy. Keep the seven-day discipleship arc as a default, not a law. Keep the Jeremiah 29:11 warning as house canon.
+Do not ship a consumer book from this file as-is. It cannot yet produce a consistent SKU because it is missing a locked translation, a complete sample day, length targets, a pastoral-crisis protocol, quotation licensing, a brand relationship to Morning Mercies and TovTree, and a market-facing title system. If you generate volume before those locks, you will get pious mush with a good conscience.
+17.2 What works and must be sustained
+Theological maturity
+•  Scripture as authority, commentary as explanation, prayer as response is the correct order. Reverse that order and the line becomes self-help with verse garnish.
+•  “Promises are personal without becoming private inventions” is the single most important sentence in the file. It is the difference between pastoral use of the Bible and prosperity collage.
+•  The vending-machine ban is necessary and should stay near the top of every generation prompt.
+•  Christ-central, obedience-with-promise, and relational prayer keep the series out of affirmation culture and out of legalism.
+•  Section 12’s three buckets — promised spiritual realities / invited petitions / specific desired outcomes — should become a required field on every book brief.
+Craft standards
+•  The human prayer voice standard is unusually good. The reject list (framework, optimize, operationalize, protocol) is aimed at the exact failure mode of model-written prayer.
+•  Scripture-first substitution is the right creative rule if it is constrained by context. The four worked examples in Section 4 are teachable and should be expanded into a 20-row house glossary.
+•  Daily architecture names the right movements: situation, context, call, promise, elder word, prayer, carry-this. That is a real liturgy, not a blog template.
+•  ACTS treated as order rather than forced content is correct. Forcing confession when the text does not expose sin is pastoral malpractice.
+•  The elder voice notes — speak to, not at; seasoned not superior; name the danger without shame — will do more for brand than any cover floral.
+•  Book-level arc (Name → Hear → Return → Receive → Walk → Abide → Continue) is a discipleship path. That is a product differentiator against stacked-verse journals.
+•  Intercessory mode with a ban on controlling another person’s will is ethically and theologically sound.
+•  The generation gate in Section 14 is a usable QA checklist. Keep it. Score it. Do not treat checkboxes as decoration.
+•  The Jeremiah 29:11 seed is the right kind of negative example. One worked misuse teaches more than three pages of theory.
+Product instinct
+•  Condition-based books (one recognizable human state per volume) is a viable series architecture. It maps to how people actually search and gift: grief, provision, a wandering heart, a sick child.
+•  Seven days as a pilot length is honest. It is a guided return, not a year-long curriculum pretending to be a first test.
+•  The explicit warning that seven days do not purchase restoration protects the brand from formula-gospel.
+17.3 What does not work yet
+Category error: constitution mistaken for product
+This file governs generation. It does not yet define a sellable object. Missing product facts:
+•  Who is the reader in one sentence? Anxious evangelical adult? Returning prodigal? Small-group leader? Parent interceding? The source lists conditions but not a primary avatar.
+•  Who is the human author or imprint voice on the cover? “Authored by Grace” is theologically beautiful and commercially ambiguous. Retailers and readers will ask whether a person stands behind the elder voice.
+•  Locked translation is named as a required input and then never chosen.
+•  No word-count envelope per element. Without it, models write 900-word elder comments and 80-word prayers, or the reverse.
+•  No complete written Day 1. A standard without a gold-sample will drift within three generated books.
+•  No relationship map to Morning Mercies, TovTree, The Way, or the LogosGS imprint architecture. Sister lines will cannibalize or contradict if left implicit.
+•  No trim, interior color, journaling space, price band, or format matrix (paperback journal / ebook / web daily / audio prayer).
+•  No copyright page, ISBN plan, or Scripture-permissions workflow.
+Title and market language
+The current stack is too long for a spine and a search box:
+Authored by Grace — Praying Through Scripture When You Are Backslidden — A TovTree Publication
+Problems:
+•  “Backslidden” is accurate in older evangelical speech and cold in current discovery language. Many of the people who need this book will not self-identify with that word at the moment they search Amazon or a church bookstore.
+•  Four-part identity (series + method + condition + imprint) should be split: cover title, series name, imprint line.
+•  Recommended cover pattern: short human title + series line + imprint. Example cover title: When Your Love Has Grown Cold. Series line: Authored by Grace — Praying Through Scripture. Imprint: TovTree.
+Daily architecture is heavier than a seven-day pocket book
+Nine required blocks per day is a seminary handout wearing a prayer-book coat. For a seven-day pilot meant to be prayed aloud, that density will produce skimming. Readers in the exact conditions you named — fear, grief, distance from God — do not have surplus attention.
+What will happen if you keep all nine blocks at full strength: the prayer, which is the product, gets crowded out by explanation of the prayer.
+ACTS and “pray the text” are two methods sharing one page
+Donald Whitney’s method is line-by-line turning of the passage into speech toward God. ACTS is a four-movement shape. Both are legitimate. This source asks the model to satisfy both plus elder commentary plus a carry-this plus optional intercession. That is three liturgies. In generation, one will win and the others will become padding.
+Choose a primary prayer engine. Recommendation: the prayer is Whitney-shaped through the anchor text; ACTS is a silent quality check, not printed headings, unless a later journal edition wants labeled sections.
+Pilot topic is pastorally right and commercially hard as SKU #1
+A book for the believer who has cooled is needed. It is also a poor first retail object if it is the only object. Shame-sensitive readers delay purchase. Pastors hesitate to gift a title that names failure on the cover. The theology is sound; the merchandising is not.
+Mature path: keep the return volume in the series map, but consider launching the method with a more giftable adjacent condition (anxiety, waiting, provision, a wandering mind) while the return volume is field-tested in churches.
+Pastoral-boundary field is named and empty
+Section 13 lists grief, illness, addiction, suicide, marriage, and finances as required inputs. The source never writes the actual safeguards. That is the most dangerous blank in the file. A generation model given “suicide” and “pray Scripture” without a crisis protocol can produce spiritually confident, medically reckless pages.
+Legal and publishing silence
+Modern English Bible text is not free raw material. ESV and NIV gratis-use policies generally cap quotation around 500 verses, bar using the text as 25 percent or more of the work, bar quoting half of any biblical book, require a prescribed copyright notice, and often exclude “commentary or other biblical reference work” from the gratis path. A seven-day book that quotes a full psalm plus supporting texts will usually stay under 500 verses. A series that later prints longer commentaries, study notes, or a “pray through a whole book” edition will not. The source should force a permissions check before generation, not after typesetting.
+KJV is public domain in the United States and remains restricted in the United Kingdom. If the line ever sells into the UK, KJV is not an automatic escape hatch.
+Model lock is a process smell
+“Prepared with GPT-5.6 Sol” and “Model signature: GPT-5.6 Sol” belong in a changelog, not in the authority statement of a multi-year imprint. Models change. The constitution must outlive the engine. Keep a generation log. Do not make a model name part of canon.
+17.4 What to cut, compress, or stop repeating
+•  Cut the repeated restatement of “do not invent a promise.” It is already said in Sections 2, 5, 7, 8, 12, 14, and 15. State it once as a hard law, then point the gate back to it.
+•  Compress Section 2 and Section 12. They are the same doctrine at two altitudes. Keep 2 as creed and 12 as operational taxonomy.
+•  Soften the banned-word list. “Govern” and “process” are sometimes the honest human word. Ban register, not tokens.
+•  Do not print ACTS headings in the consumer edition unless testing shows readers want them. The source already allows a seamless prayer.
+•  Do not keep “Working Source — v0.1” language on any file that might leak to a store page or a church packet.
+•  Drop “uniform prose” anxiety as a primary goal-statement. The real failure mode is not sameness of cadence. It is sameness of spiritual movement: every day consolation without command.
+•  Do not treat the default seven-day map as mandatory for grief, addiction, or marriage repair. Those conditions need a longer or differently shaped arc, or a clear “this is not treatment” frame.
+17.5 What could get worse if you scale too soon
+•  A content farm of 40 condition-books with identical bones and slightly different verses. Readers will feel the template even if the doctrine is clean.
+•  Proof-text collage under the banner of “Scripture saturation.” The source already warns about this. Generation pressure will reintroduce it.
+•  Guaranteed-outcome creep on provision, healing, and prodigal-child titles. Those SKUs sell. They also destroy trust.
+•  Using “backslidden” as a blunt instrument that shames the wounded and flatters the self-righteous.
+•  Shipping elder commentary that sounds like a kind supervisor. Seasoned is not the same as corporate-pastoral.
+•  Storefront identity problems: AI-assisted disclosure, author name, and “Authored by Grace” read as evasion rather than doxology.
+•  Translation mixing after the first three books when a later editor “likes this verse better in NIV.”
+•  Pastoral topics without a human reviewer who has actually shepherded people in that condition.
+•  Letting Morning Mercies daily web voice and this print-prayer voice diverge until TovTree feels like two different religions.
+17.6 Improvements that mature the line
+A. Split the source into four controlled documents
+v0.2 should not be a longer version of this file. It should become a small document family:
+•  01_CONSTITUTION.md — theology, voice, promise law, generation gate. Largely what you already have.
+•  02_PRODUCT_SPEC.md — reader, formats, trim, price band, series map, title formula, interior modules, relationship to Morning Mercies.
+•  03_LEGAL_AND_PERMISSIONS.md — translation lock, quotation budget per book, required copyright notice, commentary-license trigger, UK/US KJV note.
+•  04_GOLD_SAMPLE.md — one fully written pilot week, including the prayers spoken aloud.
+Until 04 exists, generation is speculation.
+B. Lock production numbers
+Recommended pilot envelope for a 7-day paperback (5 x 7 or 5.5 x 8.5, cream stock, 11 pt body):
+•  Day title: 3–8 words.
+•  Anchor quotation: the literary unit, not an isolated clause. Usually 2–12 verses.
+•  The Situation: 40–70 words.
+•  Text in Context: 60–110 words.
+•  Call / Promise: 40–80 words each, only the category the text actually contains.
+•  An Elder’s Word: 120–180 words. One page of speech, not an essay.
+•  Prayer: 140–220 words. Speakable in 90–150 seconds.
+•  Carry This With You: 25–40 words.
+•  Optional intercession: 40–70 words.
+That envelope keeps the prayer as the center of gravity.
+C. Rewrite the title system
+Series name (stable): Authored by Grace
+Method line (stable): Praying Through Scripture
+Imprint (stable): TovTree
+Volume title (human, searchable, giftable): names the condition without church-jargon where the jargon will keep the wanderer from picking the book up.
+Pilot volume title options to test, in order of pastoral accuracy versus discoverability:
+•  When Your Love Has Grown Cold
+•  Return to Me
+•  The Way Back
+•  Praying Through a Distant Heart
+Keep “backslidden” in the interior and in pastor-facing metadata if you want the doctrine. Do not require the wounded reader to wear the word on the subway.
+D. Write the missing pastoral protocols
+Add a mandatory front-matter block for any volume that touches despair, self-harm, addiction, abuse, or acute grief:
+•  This book is discipleship, not diagnosis or treatment.
+•  If you are in immediate danger or considering harming yourself, stop and get human help now. In the United States, call or text 988. If you are outside the US, use local emergency services or the IASP locator.
+•  Do not treat unanswered prayer, remaining illness, or delayed restoration as proof that the reader failed the seven days.
+•  Marriage and abuse volumes must distinguish repentance, reconciliation, and the duty to seek safety. Do not generate “just submit and stay” counsel.
+•  Addiction volumes may speak of bondage and freedom without promising instant deliverance or shaming medically supported recovery.
+Put the 988 / local-help line in the book, not only in the generator prompt. Readers in crisis do not have access to your prompt.
+E. Choose and budget a translation
+Recommended lock for the pilot: one translation per edition. For a conservative evangelical prayer line, ESV is the usual fit; NIV is the usual pastoral-readability fit; KJV is the usual public-domain fit in the US. Pick one for v1 and stop debating inside the prayer.
+Then add a pre-generation permissions math step:
+•  Count quoted verses in the manuscript.
+•  Confirm they are under the chosen publisher’s gratis cap.
+•  Confirm quoted text is under 25 percent of the finished book.
+•  Confirm no complete biblical book is reproduced.
+•  If the edition is functioning as commentary or reference, file for a license even if the verse count is small.
+•  Place the publisher’s exact copyright notice on the copyright page.
+Until that checklist exists, do not typeset.
+F. Add a gold-sample week before any other titles
+Do not generate Book 2 until Book 1 exists as a human-editable manuscript with:
+•  Seven finished days.
+•  Prayers read aloud by at least two people who were not the writer.
+•  A pastor or elder review for the return/repentance volume.
+•  A permissions count.
+•  A one-page reader test: Did Day 1 meet them? Did Day 5 ask for a real act? Did Day 7 avoid closing the file on God?
+G. Series map, not a lone pilot
+Condition-books compound when the cover system and interior grid are identical. Suggested first-wave map after the constitution is locked:
+•  01 Return / cooled love
+•  02 Fear of tomorrow
+•  03 Provision and daily bread
+•  04 Grief
+•  05 Waiting
+•  06 Intercession for a child
+•  07 A scattered mind
+•  08 Illness in the house
+Do not announce twelve titles. Finish one. Place two. Then name the shelf.
+H. Align with Morning Mercies instead of competing with it
+Morning Mercies is already a dated, public daily devotion with a build pipeline. Praying Through Scripture is a condition-based, multi-day journey. That is a healthy pair if the voices match:
+•  Morning Mercies = daily bread, calendar cadence.
+•  Authored by Grace = focused pilgrimage through one burden.
+Share the elder register, translation, and promise law. Do not share the page template. Readers should feel one household, two rooms.
+I. Human editorial office
+A generation standard is only as holy as the person who refuses a bad page. Create a two-seat gate:
+•  Seat A: theological / pastoral reader. Can veto a misused verse.
+•  Seat B: speech reader. Reads every prayer out loud. If they stumble, the prayer fails.
+No book leaves the house with only a model signature.
+17.7 Scoring the current source
+Theological posture — 9/10. Best part of the file. Sustain.
+Promise / petition taxonomy — 9/10. Promote to required book-brief field.
+Human prayer voice — 8/10. Strong rules; no gold sample yet.
+Daily liturgy design — 7/10. Right pieces; too many of them for seven days.
+Book-level discipleship arc — 8/10. Keep as default; allow longer arcs.
+Pilot concept quality — 7/10. Pastorally right; title and SKU strategy weak.
+Pastoral safety protocols — 3/10. Named, not written.
+Legal / translation readiness — 2/10. Required input with no lock or budget.
+Product / retail completeness — 3/10. Constitution without a SKU definition.
+Brand / sister-line integration — 3/10. TovTree and Morning Mercies are implied, not specified.
+Generative operationalization — 6/10. Good gate; missing lengths, sample, and failure corpus.
+Overall readiness to generate a public book — 4/10. Ready to write a gold sample. Not ready to publish.
+17.8 Recommended v0.2 change list
+•  Keep Sections 1–16 lean. Park this review in a REVIEW log rather than letting the constitution become a memo.
+•  Insert a Translation and Permissions section with a chosen lock and a verse-budget formula.
+•  Insert Pastoral Crisis Protocol with 988 / local emergency language.
+•  Insert length targets per daily element.
+•  Insert title formula and retire “backslidden” from the cover of SKU 1.
+•  Write one complete sample week into the repo before any further books.
+•  Add a failure corpus: five bad prayers and why they fail (invented promise, forced sin, technical diction, verse collage, seven-day bargain).
+•  Add author / imprint identity: human name or house editorial attribution, plus an honest AI-assistance disclosure policy for storefronts that require it.
+•  Add format matrix: prayer paperback, reflowable ebook, optional web excerpt, optional audio prayer.
+•  Replace model-name authority with versioned constitution language: “This document governs generation regardless of model.”
+•  Cross-link Morning Mercies voice rules so both lines share promise law and elder register.
+17.9 Context-engineered generation prompt
+The request that produced this review was informal. The operational prompt the house should run against this source is:
+You are an elder-discipler writing inside the Authored by Grace / Praying Through Scripture constitution. Produce one seven-day volume for a named condition. The anchor text controls meaning. Commentary explains. Prayer responds. Do not invent promises, timetables, healings, financial results, or restorations the text does not warrant. Classify every claim as (1) promised spiritual reality, (2) invited petition, or (3) specific desired outcome that may be asked but not guaranteed. Write speakable prayer in short sentences a believer can say aloud. Prefer Scripture’s own petitions when contextually faithful. Do not force ACTS content the passage does not support. Advance the seven-day arc; do not repeat the same consolation with a new verse. Name original audience and covenantal setting before application in Christ. Keep elder commentary under 180 words and prayer under 220 words. If the topic touches self-harm, abuse, addiction, or acute grief, include the pastoral-crisis frame and refuse any counsel that replaces emergency human help. Lock the designated translation. Quote only the approved textual unit. Return: book brief fields, seven complete days in the house architecture, verse-count budget, and a generation-gate self-audit.
+17.10 Competitive frame (why this line can exist)
+The category is not empty. Jodie Berndt’s Praying the Scriptures line has sold in the hundreds of thousands by giving people actual words to pray for concrete loves. Crossway’s ESV Prayer Journals sell a 30-day topical grid with art, teaching, and lined pages. Stormie Omartian built a franchise on situation-specific prayer. Donald Whitney taught the method of turning a passage, especially a psalm, into speech toward God. Thomas Nelson’s Prayer Bible puts a prompt on every chapter. Low-content prayer journals dominate mass retail on price and florals.
+Your opening is not “another journal.” Your opening is: a theologically fenced, condition-specific, seven-day pilgrimage in an elder voice that refuses both prosperity and despair. That is rarer than lined pages. It will only be rare in the market if the published pages keep the fence.
+17.11 Public-facing line, if and when you announce
+Do not announce the generation standard. Announce the pilgrimage, after a gold sample exists.
+Draft statement: Authored by Grace is a TovTree prayer series that walks one burden at a time through Scripture, honest speech, and a way back to God that does not bargain with Him.
+Suggested visibility tags and mentions for a later public note, not for this internal file:
+#PrayingScripture  #ChristianPrayer  #DailyDevotional  #TovTree  #AuthoredByGrace
+@Crossway  @BibleGateway  @DesiringGod  @TheGospelCoalition  @YouVersion
+Use mentions only when the post actually engages those communities. Do not spam them from a private working source.
+17.12 Final recommendation
+Sustain the doctrine. Tighten the product. Write one perfect week. Put a human name and a permissions page on it. Then, and only then, generate the shelf.
+This source is already a serious house rulebook. Treat it that way. Do not dilute it into a content calendar.
+17.13 Resource links for the publishing and legal work
+•  Crossway / ESV permissions: https://www.crossway.org/permissions/
+•  Biblica / NIV permissions: https://www.biblica.com/permissions/
+•  HarperCollins Christian / Zondervan commercial NIV permissions: https://www.zondervan.com/about-us/permissions/
+•  ESV quotation notice language: https://www.esv.org/resources/esv-global-study-bible/copyright-page/
+•  Translation copyright overview: https://legalclarity.org/who-owns-the-bible-copyright-and-translation-rights/
+•  Whitney, Praying the Bible (method reference): https://www.crossway.org/books/praying-the-bible-case/
+•  Whitney interview on the method: https://www.biblegateway.com/blog/2015/08/praying-the-bible-an-interview-with-donald-whitney/
+•  Berndt, Praying the Scriptures series (category comparable): https://www.amazon.com/Praying-Scriptures-Your-Life-Provision/dp/0310361605
+•  NIV Prayer Bible (chapter-prompt comparable): https://www.amazon.com/Prayer-Bible-Hardcover-Letter-Comfort/dp/1400345391
+•  US suicide and crisis lifeline: https://988lifeline.org/
+•  IASP international resource locator: https://www.iasp.info/suicidalthoughts/
+•  Amazon KDP help (confirm current AI-disclosure and category rules at upload): https://kdp.amazon.com/help
+•  Related house pilot, Morning Mercies: https://github.com/LogosGSInc/LogosGSInc-morning-mercies-pilot
+
+
+Review signature
+Model: Grok 4.6, built by xAI
+Role on this pass: editorial reviewer and product-development analyst for the TovTree / Authored by Grace working source.
+This review is appended to Working Source v0.1. It does not supersede the constitution in Sections 1–16. It governs how those sections should be matured into v0.2.
+— Grok 4.6
+
+
+
+
+
+
+
+18. Additional Concept Review & Synthesis Assessment
+18.1 Key Strengths Retained
+•  Strong theological foundation establishing Scripture as the primary authority over devotional commentary and prayer.
+•  Clear, natural human prayer voice standards that intentionally filter out transactional, technical, or machine-like jargon.
+•  A structured 7-day arc providing a progressive spiritual pilgrimage rather than repetitive daily entries.
+18.2 Targeted Improvement Areas
+1. Daily Architecture Density vs. User Experience: The nine-element daily structure risk creating cognitive fatigue for readers in acute stress. Consider consolidating into four main visual blocks (Anchor Text, Context/Call, Elder Word, Prayer & Takeaway) while maintaining internal completeness.
+2. Translation & Copyright Compliance: Locking a single translation (e.g., ESV or NIV) early per edition is essential to keep quoted passages well within publisher gratis limits and avoid permissions overhead.
+3. Crisis Protocols & Pastoral Boundaries: Specific pastoral safeguards (such as 988 Lifeline references for despair/grief topics) must be explicitly authored in front-matter templates rather than remaining abstract prompt directives.
+4. Gold Sample Requirement: Creating a fully realized, benchmark 7-day manuscript (Gold Sample) will stabilize tone, word counts, and quality prior to scaling additional volumes.
+— Gemini 2.5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+You’re right—the document is now available through the connected Drive search. I located the exact source document and its exported .docx counterpart; however, the current Google Drive connection exposes read/search access only, not a document-update tool, so I cannot append directly to the live Google Doc from this session. The source document is available as Authored by Grace — Praying Through Scripture Project Source v0.1 REVIEWED.[drive.google]
+Review assessment
+The document’s original Sections 1–16 establish an unusually strong theological and editorial constitution: anchor-text control, contextual integrity, non-formulaic promises, human-sounding prayer, and a progressive seven-day discipleship journey. The appended Grok review correctly identifies the central product gap: this is a generation standard, not yet a complete publishable product specification.[drive.google]
+The final added AAR—covering “Psalm 40:1–3 — Out of the Pit and Into a New Song”—is directionally sound but needs more operational precision. Its key claim is well supported: the devotional itself is strong, while the pilot wrapper, offer flow, and reader journey require tightening before any broader launch.[drive.google]
+Key corrections to prior review
+The Grok review is valuable, but a few points need adjustment before being accepted as house policy:
+Area
+	Assessment
+	Recommended correction
+	Model name in the source
+	Correct that a model name should not be part of doctrinal or editorial authority
+	Preserve model attribution in a changelog or review log, not in the governing constitution
+	Translation guidance
+	Correct to require a locked translation and permissions review
+	Do not name ESV, NIV, or KJV as presumed choices inside the constitution. Make translation selection a deliberate edition-level decision with documented permission terms
+	Crisis-resource text
+	Correct that crisis safeguards must exist for self-harm, abuse, addiction, and acute grief topics
+	Use country-appropriate and current crisis language, reviewed by a qualified human pastoral/clinical advisor before publication
+	“Backslidden” title critique
+	Commercially astute
+	Keep the theological vocabulary available in metadata, pastor editions, or interior language, but test a reader-facing title that invites a wounded believer rather than labels them at the door
+	Product readiness score
+	Directionally fair
+	The source is ready for controlled creation of a gold-standard sample, but it is not ready for automated scale, public mass distribution, or sensitive pastoral-topic expansion
+	The existing editorial review also correctly urges a single fully edited, field-tested “gold sample” before creating a shelf of titles. This should be a hard release gate: one finished pilot week, read-aloud prayer testing, pastoral review, Scripture quotation accounting, and a reader-response pass.[drive.google]
+Immediate improvements
+These are the additions I would prioritize, in order:
+1. Create a one-page Book Brief.
+Require topic, ideal reader, pastoral objective, spiritual movement, locked translation, anchor passages, promise/petition classification, content warnings, format, and intended distribution channel before generation begins.
+2. Create a gold-sample manuscript.
+Do not build additional books until one seven-day book is fully drafted, read aloud by real readers, pastorally reviewed, copyedited, and assessed against the Section 14 generation gate.
+3. Add a specific pastoral-care protocol.
+The present document names high-risk subject areas but does not establish response rules. Add clear “do not generate” boundaries, emergency-help language, safety-and-abuse safeguards, and a human-review requirement for grief, self-harm, addiction, abuse, marriage crisis, illness, and financial distress.
+4. Separate the operational documents.
+Keep Sections 1–16 as the theological/editorial constitution. Maintain separate controlled files for:
+   * Product and market specification
+   * Translation, rights, and permissions
+   * Pastoral safety protocol
+   * Gold sample and failure corpus
+   * Changelog and model-attribution log
+   5. Simplify the daily reader experience.
+The internal architecture may remain comprehensive, but the consumer-facing page should protect the center of gravity: Scripture, a concise elder word, a natural spoken prayer, and one concrete carry-forward response. The supporting analysis should not crowd out the prayer.
+   6. Repair the pilot wrapper immediately.
+The final AAR correctly notes duplicate offer copy, tentative “if and when” wording, no clear pilot timeline, and a fragile single-path sign-up. Replace duplicate promotion with one clear invitation, state exact pilot dates and capacity, explain what participants receive, and provide a simple form-based enrollment path in addition to email.[drive.google]
+Append-only review text
+Below is the exact text I recommend appending after the present final entry. It preserves all existing content and adds only a new review section.
+________________
+
+
+18. Perplexity Editorial and Operational Review — Addendum
+Review posture: This addendum reviews the governing source, the appended product-development review, and the final After Action Review concerning the “Psalm 40:1–3 — Out of the Pit and Into a New Song” devotional/pilot experience. It does not replace Sections 1–16. It clarifies the immediate maturity path required before scale, publication, or expansion into sensitive pastoral topics.
+18.1 Core verdict
+The constitution is strong enough to govern the writing of a gold-standard pilot. It is not yet complete enough to govern automated series-scale generation or public publication across multiple pastoral conditions.
+The enduring strength of this work is its refusal to make Scripture serve a desired outcome. The anchor text controls the meaning; commentary explains; prayer responds. That order must remain non-negotiable.
+The immediate assignment is not to create more titles. The immediate assignment is to create one exemplary, human-reviewed, legally prepared, pastorally safe seven-day volume that proves the house standard can become a real reader experience.
+18.2 Sustains
+      * Sustain the conviction that promises are personal without becoming private inventions.
+      * Sustain the distinction between promised spiritual realities, invited petitions, and specific desired outcomes.
+      * Sustain the requirement that prayer sound like a believer speaking naturally to God rather than a system generating devotional language.
+      * Sustain the Scripture-first substitution rule while guarding against stitched-together proof-texts.
+      * Sustain the seven-day arc as a default movement of discipleship, not a mechanical formula.
+      * Sustain the warning that seven days do not purchase restoration, healing, provision, reconciliation, or spiritual maturity.
+      * Sustain the elder/discipler voice: direct, seasoned, gentle, truthful, and free from shame.
+      * Sustain the Psalm 40 pilot devotional’s story-first structure, faithful Scriptural thread, memorable takeaway, and usable prayer.
+18.3 Immediate corrections
+A. Add a mandatory Book Brief before generation
+No manuscript should be generated without a completed brief containing:
+Required field
+	Definition
+	Working title
+	Reader-facing title and internal topic name
+	Ideal reader
+	One clearly described primary reader
+	Condition or burden
+	The specific human and spiritual situation being addressed
+	Pastoral objective
+	The biblically faithful posture the book seeks to cultivate
+	Seven-day movement
+	The progression from Day 1 through Day 7
+	Translation lock
+	The approved translation for that edition
+	Anchor passages
+	One verified primary passage for each day
+	Promise classification
+	Promised spiritual reality, invited petition, or desired but unguaranteed outcome
+	Pastoral-risk flag
+	Whether the topic includes self-harm, abuse, addiction, acute grief, illness, marriage crisis, or financial distress
+	Human reviewers
+	Named theological/pastoral reader and speakability reader
+	Format
+	Paperback, ebook, web, audio, or other approved product format
+	B. Add a pastoral safety protocol
+For any topic involving self-harm, abuse, addiction, acute grief, serious illness, marriage crisis, or financial desperation:
+      * State clearly that the devotional provides discipleship and prayer support; it is not emergency care, diagnosis, legal advice, medical care, or a substitute for qualified human help.
+      * Include accurate, locale-appropriate emergency-resource language in the finished product when a topic warrants it.
+      * Do not imply that persistent suffering proves weak faith, hidden sin, failed prayer, or insufficient obedience.
+      * Do not counsel a reader to remain in danger, conceal abuse, reject medical care, stop treatment, or avoid emergency help.
+      * Require qualified human pastoral review before release.
+      * Require additional expert review whenever content may reasonably be understood as medical, mental-health, legal, financial, or abuse-survivor guidance.
+C. Establish a gold-sample release gate
+Before a second title is generated, the first volume must satisfy all of the following:
+      * Seven complete devotional days have been drafted against the constitution.
+      * The prayers have been read aloud by at least two independent readers.
+      * A pastoral or theological reviewer has checked each anchor passage in context.
+      * Scripture quotations have been counted and matched to the selected translation’s permissions terms.
+      * The manuscript has passed the Section 14 Final Generation Gate.
+      * A reader test confirms that Day 1 meets the reader honestly, Day 5 calls for a faithful concrete response, and Day 7 equips continued walking rather than presenting closure as formula.
+      * The pilot offer has one clear call to action, one enrollment path with a backup, a named start date, a stated duration, capacity or selection terms, and a clear description of what participants receive.
+18.4 Psalm 40 pilot corrections
+The “Psalm 40:1–3 — Out of the Pit and Into a New Song” devotional has a strong spiritual and literary center. Retain the diner scene, the movement from pit to rock to song, the Scripture sequence, and the prayerful landing.
+Before wider distribution:
+      * Remove the duplicated pilot offer. Keep one complete offer block only.
+      * Replace tentative language such as “if and when it launches” with an exact, truthful commitment or a clearly labeled waitlist. Do not create a false sense of certainty before dates and delivery are established.
+      * Add a visible Day number, estimated reading time, previous/next navigation where relevant, and a short “what happens next” line.
+      * State the pilot’s start date, duration, participant capacity, delivery method, feedback expectation, and what participants receive at completion.
+      * Use a brief enrollment form as the primary sign-up path, with an email alternative rather than email alone.
+      * Keep the offer visually separate from the devotional so that the reader encounters Scripture and prayer before the invitation.
+18.5 Controlled document family
+Maintain the following files as separate, versioned sources:
+      * 01_CONSTITUTION: Theology, promise law, Scripture integrity, voice standards, and generation gate.
+      * 02_PRODUCT_SPEC: Reader, title system, interior structure, format choices, price strategy, pilot offer, and product-channel decisions.
+      * 03_PASTORAL_SAFETY: Topic-specific boundaries, escalation rules, disclaimers, and review requirements.
+      * 04_TRANSLATION_AND_RIGHTS: Translation choice, quotation records, permissions, copyright notices, and territory considerations.
+      * 05_GOLD_SAMPLE: The fully reviewed pilot manuscript.
+      * 06_FAILURE_CORPUS: Bad examples and why they fail: invented promises, forced confession, proof-text collage, technical prayer language, and formulaic outcome claims.
+      * 07_CHANGELOG: Version history, editorial decisions, reviewer notes, and model-assistance records.
+The constitution must outlive any particular model. Model names belong in the changelog and review signature, not in the authority of the theological source itself.
+18.6 Final recommendation
+Do not scale content volume yet.
+Finish one faithful week. Make it prayable aloud. Make it safe for the burden it addresses. Make its Scriptural use contextually honest. Make its reader journey clear. Make its publishing pathway legally prepared. Then field-test it with actual believers and trusted human reviewers.
+The opportunity is not another prayer journal. The opportunity is a condition-specific, Scripture-governed pilgrimage that helps a believer draw near to God without manipulating the text, overselling an outcome, or confusing polished language with prayer.
+Review signature
+Model: Perplexity
+Role: Editorial reviewer, theological-content systems analyst, and product-operational reviewer
+— Perplexity
+________________
+
+
+Limitation
+I can now read the content of your document through Drive, but this connected environment still does not surface a Google Docs write/append action. Therefore, I have not altered any document content. The block above is ready to paste as an append-only Section 18 at the end of the live document.[drive.google]
+“Commit thy works unto the LORD, and thy thoughts shall be established.” — Proverbs 16:3 (KJV)
+
+
+Authored by Grace • Praying Through Scripture • Project Source v0.1
